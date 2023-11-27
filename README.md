@@ -27,3 +27,8 @@ The Connect 4 Game using JavaFX is a desktop application that aims to provide a 
 # Conclusion
 
 The Connect 4 Game using JavaFX project showcases the seamless integration of classic gameplay with modern technology. By leveraging the capabilities of JavaFX, this application provides an engaging and visually satisfying experience for players, reviving the timeless joy of the Connect 4 game in a digital format. Through this project, the fusion of gaming nostalgia and cutting-edge technology comes to life, offering a delightful journey for both players and developers alike.
+
+
+# Contact 
+
+If you have any query, suggestions or feedback, feel free to contact me. My gmail ID:- abhinavsinghal876@gmail.com
